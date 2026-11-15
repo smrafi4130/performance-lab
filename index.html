@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frontend Performance Lab</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        max-width: 40rem;
+        margin: 10vh auto;
+        padding: 0 1rem;
+        line-height: 1.6;
+      }
+      a {
+        color: #2563eb;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Frontend Performance Lab</h1>
+    <p>The same transactions dashboard, built two ways:</p>
+    <ul>
+      <li><a href="/slow.html">Naive build</a> — no optimization</li>
+      <li>
+        <a href="/fast.html">Optimized build</a> — virtualization, memoization, code splitting
+      </li>
+    </ul>
+    <p>See the README for measured before/after results.</p>
+  </body>
+</html>
