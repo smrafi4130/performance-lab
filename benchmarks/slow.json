@@ -1,0 +1,11 @@
+{
+  "page": "slow.html",
+  "runs": 5,
+  "score": 82,
+  "fcp": 2404,
+  "lcp": 2404,
+  "tbt": 507,
+  "si": 2404,
+  "jsBytes": 282752,
+  "initialJs": 282400
+}

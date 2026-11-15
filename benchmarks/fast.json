@@ -1,0 +1,11 @@
+{
+  "page": "fast.html",
+  "runs": 5,
+  "score": 95,
+  "fcp": 1752,
+  "lcp": 1853,
+  "tbt": 0,
+  "si": 1752,
+  "jsBytes": 149979,
+  "initialJs": 148429
+}
