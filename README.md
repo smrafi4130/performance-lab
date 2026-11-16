@@ -1,5 +1,7 @@
 # Frontend Performance Lab
 
+[![CI](https://github.com/smrafi4130/performance-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/smrafi4130/performance-lab/actions/workflows/ci.yml)
+
 The same transactions dashboard — 5,000 rows, search, category filter, summary and a breakdown — built **twice**: once naively, once optimized. Identical features and UI; the only difference is engineering. The point is to show optimization work backed by **reproducible measurements**, not adjectives.
 
 ![dashboard](docs/screenshots/dashboard.png)
